@@ -1,20 +1,16 @@
 /*---------------------Assignment 1-------------------*/
 
-1. Group Members
-	1. Name:  Nehal Rajendra Pawar
-   	   Email: npawar3@binghamton.edu
+Name:  Aditya Surendra Dere
+Email: adere1@binghamton.edu
 
-	2. Name:  Aditya Surendra Dere
-   	   Email: adere1@binghamton.edu
-
-2. Testing and vefrification on Bingsuns
+1. Testing and vefrification on Bingsuns
    Result: - Tested & Working Fine
 
-3. Execution guidelines
+2. Execution guidelines
 	1. make
 	2. ./calc<input   -----------(where  'input' is file name that contains the code that needs to be given as input to program)
 
-4. Alogritham & Explanation
+3. Alogritham & Explanation
    
    1. In the Assignment we have implemented symbol table using structure.
    2. Structure contains Two elemnets Operand1 & Value. Operand1 stores name of symbol and Value stores it's respective value. 
